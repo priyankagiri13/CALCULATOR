@@ -10,6 +10,11 @@ html,body{
     font-family: "gilroy";
     font-style: bold;
 }
+@font-face {
+    font-family: voyage;
+    src: url(voyage-bold2.ttf);
+}
+
 #main{
     width: 100%;
     height: 100%;
